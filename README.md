@@ -1,2 +1,1 @@
-# custum-html-methods
-In this file I created a cupole of helper method to make interctiong with the DOM easier
+In this repo, I created a couple of helper methods to make interacting with the DOM easier
